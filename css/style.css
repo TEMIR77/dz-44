@@ -1,0 +1,15 @@
+.counter{
+    display: flex;
+    padding: 500px;
+    margin-left: 300px;
+    border-radius: 500px;
+}
+body{
+    background-color: rgb(234, 238, 15);
+}
+h1{
+    display: flex;
+    transform: translateY(400px)translateX(850px);
+    text-transform: uppercase;
+    color:red;
+}
